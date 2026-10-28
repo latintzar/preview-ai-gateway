@@ -1,0 +1,7 @@
+.atelier-ai-fallback{box-sizing:border-box;width:min(470px,calc(100vw - 32px));max-width:calc(100vw - 32px);padding:24px;border:1px solid #c8c2b7;border-radius:12px;background:#faf7f0;color:#201c17;font:16px/1.5 system-ui,sans-serif}
+.atelier-ai-fallback::backdrop{background:rgb(32 28 23 / .3)}
+.atelier-ai-fallback p{margin:0 0 20px}
+.atelier-ai-fallback button,.atelier-ai-fallback a{display:inline-block;padding:11px 16px;border:0;border-radius:8px;font:inherit;text-decoration:none;cursor:pointer}
+.atelier-ai-fallback button{background:#201c17;color:#faf7f0;margin-right:8px}
+.atelier-ai-fallback a{color:#201c17}
+.atelier-ai-fallback button:focus-visible,.atelier-ai-fallback a:focus-visible{outline:3px solid #e3663d;outline-offset:3px}
